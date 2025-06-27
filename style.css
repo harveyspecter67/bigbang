@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding:0;
+}
+
+.space,body{
+    background-color: black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    color:white;
+    
+}
+
+.text{
+    color:white;
+    font-size: xxx-large;
+    font-family:'DM Sans', sans-serif;
+    position: relative;
+    text-align: center;
+    margin: 36px;
+    padding: 5px;
+    background-color: rgb(27, 27, 27);
+}
